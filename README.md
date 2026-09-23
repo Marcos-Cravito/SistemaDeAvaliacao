@@ -7,7 +7,7 @@ Coleta nome, idade e opinião de 50 entrevistados, com três opções:
 - Bom
 - Ruim
 
-Valida os dados e mostra o total de respostas de cada opção. Aceita idades de 18 a 119 anos.
+Valida os dados e mostra o total de respostas de cada opção. Aceita idades de 18 a 120 anos.
 
 ## Como executar
 
