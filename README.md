@@ -15,4 +15,4 @@ Com o Python instalado, execute:
 
     python pesquisa.py
 
-Para testar com 10 entrevistados, altere `range(50)` para `range(10)`.
+Para testar com 10 entrevistados, altere `range(50)` para `range(10)` ou outro valor.
